@@ -17,7 +17,7 @@ h2{
     display:flex;
 }
 .half-width{
-    width: 40%;
+    width: 80%;
     padding-left: 5%; 
 }
 .half-width img{
@@ -45,4 +45,17 @@ h2{
 section{
     display: flex;
     margin-bottom: 150px;
+}
+.oooo{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+.pppp{
+    color: white;
+}
+.yyyy{
+    color: red;
 }
