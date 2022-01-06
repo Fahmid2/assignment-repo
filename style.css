@@ -2,19 +2,23 @@ body{
     font-family: 'Poppins', sans-serif;
     margin-top:100px ;
     margin-left: 100px;
+    margin-right: 100px;
 }
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .blue-color{
     color: blue;
 }
-section{
+.flaxibl{
     display:flex;
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 5%; 
 }
 .half-width img{
     width: 80%;
@@ -26,4 +30,15 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.orange{
+    color: orange;
+}
+.expariens{
+    width: 40%;
+    margin-right:5%;
+    margin-top: 10%;
+    margin-left:5%;
+    padding: 20px;
+    box-shadow: 20px 20px 20px grey;
 }
